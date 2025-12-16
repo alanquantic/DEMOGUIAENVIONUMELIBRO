@@ -1,0 +1,5 @@
+{
+  "name": "OrderTrack AI",
+  "description": "An intelligent order tracking landing page connecting Monday.com data with Google Gemini to assist customers with Estafeta shipments.",
+  "requestFramePermissions": []
+}
